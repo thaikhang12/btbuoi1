@@ -1,0 +1,32 @@
+article{
+	width: 350px;
+	height: 350px;
+	background-color: Aqua;
+
+
+	
+}
+
+
+	
+
+
+
+
+a{
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	text-align: justify;
+	
+
+}
+a:hover{
+		color: red;
+}
+p{
+text-align: justify;
+ color: blue;
+}
+

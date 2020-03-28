@@ -1,0 +1,29 @@
+article{
+	width: 502px;
+	height: 430px;
+
+	border: 1px solid red;
+	background: url(bg.png);
+}
+img{
+	border: 1px solid red;
+}
+	
+
+
+
+
+a{
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+	color: red;
+}
+a:hover{
+		color: red;
+}
+p{
+ text-align: justify;
+ color: blue;
+}
+
